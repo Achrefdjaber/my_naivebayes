@@ -45,5 +45,5 @@ Make sure you have Python 3.x installed on your system. You can download it [her
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/naive-bayes-continues.git
+   git clone https://github.com/achrefdjaber/naive-bayes-continues.git
    cd naive-bayes-continues
