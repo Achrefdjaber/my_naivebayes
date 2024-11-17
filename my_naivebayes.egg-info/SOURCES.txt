@@ -1,0 +1,9 @@
+README.md
+setup.py
+my_naivebayes/__init__.py
+my_naivebayes/my_naivebayes.py
+my_naivebayes.egg-info/PKG-INFO
+my_naivebayes.egg-info/SOURCES.txt
+my_naivebayes.egg-info/dependency_links.txt
+my_naivebayes.egg-info/requires.txt
+my_naivebayes.egg-info/top_level.txt
