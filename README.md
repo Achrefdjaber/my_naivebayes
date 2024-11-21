@@ -1,4 +1,4 @@
-# 📊 Naïve Bayes Continuous Classifier
+# 📊 Naïve Bayes Continuous Classifier>
 
 🚀 A Python implementation of a Gaussian Naïve Bayes Classifier for continuous data.
 
